@@ -1,0 +1,51 @@
+main {
+    padding: 30px;
+    background-image: linear-gradient(to top right,#F44336,#4CAF50);
+}
+
+h1 {
+    font-family: sans-serif;
+    margin-bottom: 30px;
+    padding-top: 40px;
+    margin-left: 80px;
+}
+
+#first {
+    text-decoration: none;
+    color: darkblue;
+    font-family: fantasy;
+}
+
+nav {
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+    text-shadow: 10px;
+}
+
+div {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: azure;
+    font: italic bold;
+}
+
+p {
+    text-indent: 20px;
+    color: #F0F8FF;
+    font-color: #F0FFFF;
+}
